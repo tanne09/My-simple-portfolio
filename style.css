@@ -4,12 +4,11 @@ body{
 }
 section{
     height: 500px;
-
-    background-image: url(https://raw.githubusercontent.com/ProgrammingHero1/web-developer-portfolio/master/images/top-banner.png);
+    background-image: url(./Frame\ 57.jpg);
     background-repeat: no-repeat;
-    background-position: left;
+    background-size: cover;
+    padding-bottom: 150px;
 }
-
 .half-width{
     width: 40%;
     float: left;
