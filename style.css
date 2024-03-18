@@ -37,4 +37,27 @@ h1 span{
     background-image: url(Frame\ 58.jpg);
     background-repeat: no-repeat;
     background-position: right;
+    background-size: cover;
+}
+.experience-sec{
+        background-image: url(Frame\ 59.jpg);
+        background-repeat: no-repeat;
+        background-position: left;
+        background-size: cover;
+}
+.experience-sec h3{
+        color: blue;
+}
+.experience-sec div{
+     box-shadow: 5px 7px 40px gray;
+     height: 80%;
+}
+#full{
+    border-left: 7px solid red;
+}
+#baby{
+    border-left: 7px solid blueviolet;
+}
+footer p{
+    text-align: center;
 }
